@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "616c0606ddb39c65e48cc8ec"
+  },
+  "isEmailConfirmed": true,
+  "role": "super-admin",
+  "loginAttempts": 0,
+  "name": "Shobhit",
+  "email": "shobhit.narayan@gmail.com",
+  "password": "shobhit",
+  "Favorites": [
+    {
+      "$oid": "616c0a9dddb39c65e48cc8ed"
+    },
+    {
+      "$oid": "616c0aa6ddb39c65e48cc8ee"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-14T18:30:00Z"
+  }
+}]

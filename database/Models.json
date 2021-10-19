@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "616e5852f08c54a43193fdf9"
+  },
+  "name": "Apple",
+  "category": "Fruit",
+  "source": "/images/fruits/apple.gltf"
+}]
