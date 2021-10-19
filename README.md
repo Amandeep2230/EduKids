@@ -29,7 +29,11 @@ The users collection consistes of all the attributes related to the user profile
   ],
   "createdAt": {
     "$date": "2021-10-14T18:30:00Z"
-  }
+  },
+  "updatedAt": {
+    "$date": "2021-10-18T18:30:00Z"
+  },
+  "avatar": "/images/avatar.jpg"
 }]
 ```
 * **Models**
@@ -41,7 +45,10 @@ The models collection consists of all the AR models and their file links. This d
   },
   "name": "Apple",
   "category": "Fruit",
-  "source": "/images/fruits/apple.gltf"
+  "source": "/images/fruits/apple.gltf",
+  "placeholder": "/images/fruits/placeholder/apple.jpg",
+  "sound": "/sounds/fruits/apple.mp3",
+  "description": "An apple is an edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus."
 }]
 ```
 

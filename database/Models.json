@@ -4,5 +4,8 @@
   },
   "name": "Apple",
   "category": "Fruit",
-  "source": "/images/fruits/apple.gltf"
+  "source": "/images/fruits/apple.gltf",
+  "placeholder": "/images/fruits/placeholder/apple.jpg",
+  "sound": "/sounds/fruits/apple.mp3",
+  "description": "An apple is an edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus."
 }]

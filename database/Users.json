@@ -18,5 +18,9 @@
   ],
   "createdAt": {
     "$date": "2021-10-14T18:30:00Z"
-  }
+  },
+  "updatedAt": {
+    "$date": "2021-10-18T18:30:00Z"
+  },
+  "avatar": "/images/avatar.jpg"
 }]
