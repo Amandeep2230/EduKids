@@ -4,7 +4,7 @@ Advanced Software Engineer - Final Project
 ## Database
 MongoDB has been used to setup the database. A database "EduKids" is created which contains two collections - Users and Models.
 
-![ER Diagram](/images/erd.jpg)
+![ER Diagram](/images/erd.jpeg)
 
 * **Users**
 The users collection consistes of all the attributes related to the user profile and information. It consists of the fields:
